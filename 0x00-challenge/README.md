@@ -1,0 +1,1 @@
+the challenge is about finding errors in the following files and try to fix them
